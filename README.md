@@ -1,2 +1,2 @@
 # csd-325
-school things 
+advanced python
